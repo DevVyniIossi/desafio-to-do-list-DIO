@@ -10,7 +10,7 @@ Neste projeto, iremos criar uma simples lista de tarefas, proposta pela @stebsnu
 
 O resultado esperado é parecido com este:
 
-[![Exemplo de to-do list](https://github.com/stebsnusch/basecamp-javascript/raw/main/introducao-ao-javascript/to-do%20list/assets/exemplo.png)](https://github.com/stebsnusch/basecamp-javascript/blob/main/introducao-ao-javascript/to-do list/assets/exemplo.png)
+![Exemplo de to-do list](https://github.com/stebsnusch/basecamp-javascript/raw/main/introducao-ao-javascript/to-do%20list/assets/exemplo.png)
 
 <h1>Software Utilizado</h1>
 - Microsoft Visual Studio Editor
